@@ -23,7 +23,7 @@ All’aumentare del livello dell'acqua, gradualmente,  tramite il display viene 
 - 1 sensore di livello dell'acqua per le maree
 - 2 sensori ad ultrasuoni HC-SR04 per il conteggio delle barche
 - 1 display LCD
-- vari jumper di lunghezza variabile
+- diversi jumper di lunghezza variabile
 - 2 breadborad da 830 pin
 - 1 mini breadboard da 170 pin
 - polistirolo per i bracci del ponte
