@@ -40,28 +40,28 @@ All’aumentare del livello dell'acqua, gradualmente,  tramite il display viene 
 - LiquidCrystal_I2C
 
 ## Circuito
-![circuito](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/c7e1caa0-5c76-4647-bcd3-d05c69df5e67)
+  ![circuito](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/feace116-4799-4990-80a4-540db4f57e7d)
 
 ## Fotografie
 
 - Apertura ponte
-  ![ponteAperto](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/e1de59d2-005d-4e03-a32d-7319cdfdbe75)
-  ![ponteAperto2](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/4ce2d743-7918-4679-ada6-30de0e7ecc3a)
-  
+  ![ponteAperto](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/719b2548-2dec-4b61-86b8-56ad704bd812)
+  ![ponteAperto2](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/5b21038c-1641-415e-b9cd-28358c6ddb3a)
+ 
 - Alto
-  ![alto](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/b2eeb2f3-5108-4f79-9285-93c9d4227768)
+  ![alto](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/e69f1c84-1e3c-4f40-adb9-e1db1b0049b0)
   
 - Fronte
-  ![fronte](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/942363cf-a7f6-49e6-ad55-fa9067dce0ac)
+  ![fronte](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/7dc08228-8445-40d0-bd4e-788bfe66b6c0)
   
 - Laterale
-  ![laterale](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/706744e3-bf3a-4bfb-9547-9ba949b32141)
-  
+  ![laterale](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/26987972-5fed-4ece-bf9e-2bd9ae42a6d4)
+ 
 - Sotto
-  ![sotto](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/058e5930-f182-4136-ac6b-b8596456c8e1)
+  ![sotto](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/19891c3f-9f3e-4016-9794-bbaf3cc801e6)
 
 - Idea progettuale su carta
-  ![IdeaProgettuale](https://github.com/AlessandroBelfiore257/corso-git/assets/73615267/94475578-efe0-4527-aba8-307706d08fc3)
+  ![IdeaProgettuale](https://github.com/AlessandroBelfiore257/ProgettoSistemiEmbedded/assets/73615267/ece47596-ab2a-483f-9525-df2faefd5e04)
 
 ## Riflessioni fatte in fase di progettazione:
  - Il progetto del ponte è concepito con l’obiettivo di rendere più agevole il transito di imbarcazioni di simili dimensioni, 
