@@ -18,7 +18,7 @@ All’aumentare del livello dell'acqua, gradualmente,  tramite il display viene 
 - 1 Arduino UNO
 - 2 LED, uno verde ed uno rosso per il semaforo veicoli
 - 2 resistori da 220ohm
-- 3 micro servomotori, uno per la sbarra veicoli e 2 per il ponte
+- 3 micro servomotori, uno per la sbarra veicoli e 2 per i bracci del ponte
 - 1 buzzer
 - 1 sensore di livello dell'acqua per le maree
 - 2 sensori ad ultrasuoni HC-SR04 per il conteggio delle barche
